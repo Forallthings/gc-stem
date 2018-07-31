@@ -1,7 +1,12 @@
 h1{color: royalblue;}
-h2{color: black;}
+h2{color: white;}
 #latin{color: crimson;}
-#sword{color: black}
+#sword{color: white}
 h3{color: darkorange}
 #spear{color: darkorange}
+h4{color: chartreuse}
+#shield{color: chartreuse}
 img.resize{max-width:15%; max-height:15%;}
+html{background-color: black}
+h5{color: lightcyan}
+#dagger{color: lightcyan}
